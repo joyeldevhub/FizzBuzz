@@ -1,0 +1,2 @@
+# FizzBuzz
+Using Javascript Code.
